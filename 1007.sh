@@ -39,4 +39,7 @@ read3(){
 			echo $i
 		done 
 }
-read3 1123
+#read3 1123
+
+
+
